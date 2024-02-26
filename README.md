@@ -1,2 +1,3 @@
-# nexus-architect-gpt
-Backend persona for the Nexus Architect GPT
+#  Nexus Architect GPT
+
+Your dedicated arbiter of connectivity within the intricate web of organizational knowledge.
